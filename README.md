@@ -1,25 +1,4 @@
-## Hi there 👋
-
-<!--
-**roushan00/roushan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:# Hi there, I'm Roushan Singh! 👋
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;LLM+%26+GenAI+Specialist;RAG+Systems+Expert;3%2B+Years+Experience" alt="Typing SVG" />
-</div>
-
- 🚀 About Me
-
-Results-driven **AI/ML Engineer** with **3+ years** of experience in building ML models, fine-tuning, and deploying LLMs for real-world applications that drive business value across diverse industries. 
-
-- 🔭 Currently working on **llms** **multi-modal RAG systems** and **AI-powered search engines**
-- 🌱 Pursuing **Master's in Economics** at University of Delhi
-- 💡 Passionate about **AI-driven automation** and **intelligent assistants**
-- 📫 Reach me at: **roushan06534@gmail.com**
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/roushansinh/)
-
- 🛠️ Tech Stack
+A
 
  Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
