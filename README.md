@@ -9,7 +9,7 @@ Results-driven AI/ML Engineer with 3+ years of experience in building end-to-end
 🌱 Pursuing a Master's in Data Science from Euron
 💡 Passionate about AI-driven automation and intelligent assistants
 📫 Reach me at: roushan06534@gmail.com
-🔗 Connect with me on LinkedIn
+🔗 Connect with me on LinkedIn(https://www.linkedin.com/in/roushansinh/)
 
  Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
