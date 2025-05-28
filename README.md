@@ -1,4 +1,15 @@
-A
+Hi there, I'm Roushan Singh! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;LLM+%26+GenAI+Specialist;RAG+Systems+Expert;3%2B+Years+Experience" alt="Typing SVG" />
+</div>
+🚀 About Me
+Results-driven AI/ML Engineer with 3+ years of experience in building end-to-end ML models, fine-tuning, and deploying LLMs for real-world applications that drive business value across diverse industries.
+
+🔭 Currently working on multi-modal RAG systems and AI-powered search engines
+🌱 Pursuing a Master's in Data Science from Euron
+💡 Passionate about AI-driven automation and intelligent assistants
+📫 Reach me at: roushan06534@gmail.com
+🔗 Connect with me on LinkedIn
 
  Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,14 +31,16 @@ A
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**Vector Search:** FAISS, Pinecone, ChromaDB  
+**Vector Search:** FAISS, Pinecone, ChromaDB 
+
 **Big Data:** Apache Kafka, Spark, Databricks  
+
 **MLOps:** MLflow, FastAPI
 
 ## 💼 Professional Experience
 
 ### 🏢 Ineuron | AI/ML Engineer *(Feb 2023 - Feb 2025)*
-- Led development of **multi-modal RAG-based AI search engine** integrating LLMs, FAISS, and Elasticsearch
+- Led development of a **multi-modal RAG-based AI search engine** integrating LLMs, FAISS, and Elasticsearch
 - Fine-tuned **T5/BART for document summarization**, reducing legal document review time by **60%**
 - Built **Hadoop/Spark-based predictive analytics** for supply chain optimization, reducing delays by **25%**
 - Developed **Finance AI Copilot** for real-time fraud detection using Databricks, Kafka, and MongoDB
@@ -58,16 +71,6 @@ Intelligent AI agent for real-time stock market analysis using LLMs
 Content-based recommendation system using movie attributes similarity
 - **Process:** Data collection → Preprocessing → Feature extraction → Similarity calculation
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roushan00&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roushan00&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roushan00&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
 ## 🏆 Certifications & Achievements
 
@@ -80,11 +83,6 @@ Content-based recommendation system using movie attributes similarity
 - 📚 **Master's in Economics** - University of Delhi *(2024 - Present)*
 - 📚 **Bachelor's in English** - University of Delhi *(2018)*
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roushan00&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
 
 ## 🤝 Let's Connect!
 
@@ -107,13 +105,3 @@ Content-based recommendation system using movie attributes similarity
 **"Building the future with AI, one algorithm at a time"** 🤖✨
 
 </div>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
