@@ -9,7 +9,7 @@ Here are some ideas to get you started:# Hi there, I'm Roushan Singh! 👋
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;LLM+%26+GenAI+Specialist;RAG+Systems+Expert;3%2B+Years+Experience" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+ 🚀 About Me
 
 Results-driven **AI/ML Engineer** with **3+ years** of experience in building ML models, fine-tuning, and deploying LLMs for real-world applications that drive business value across diverse industries. 
 
@@ -19,16 +19,16 @@ Results-driven **AI/ML Engineer** with **3+ years** of experience in building ML
 - 📫 Reach me at: **roushan06534@gmail.com**
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/roushansinh/)
 
-## 🛠️ Tech Stack
+ 🛠️ Tech Stack
 
-### Languages & Frameworks
+ Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### AI/ML & LLMs
+ AI/ML & LLMs
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
@@ -36,7 +36,7 @@ Results-driven **AI/ML Engineer** with **3+ years** of experience in building ML
 **LLMs & Models:** GPT-4, Llama, Mistral, T5, BART  
 **AI Architectures:** RAG, MoE, RLHF, Agentic AI, Fine-Tuning, LoRA
 
-### Vector Databases & Cloud
+ Vector Databases & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
