@@ -52,22 +52,22 @@ Results-driven AI/ML Engineer with 3+ years of experience in building end-to-end
 
 ## 🚀 Featured Projects
 
-### 🎥 [Automatic Video Generation System](https://github.com/roushan00/video-generation)
+### 🎥 [Automatic Video Generation System]
 End-to-end automated video content creation using LLMs and media generation APIs
 - **Impact:** Automated high-quality video production in minutes
 - **Tech:** Large Language Models, Media APIs, Automation Pipeline
 
-### 📄 [Conversational RAG App with PDF Upload](https://github.com/roushan00/rag-pdf-chat)
+### 📄 [Conversational RAG App with PDF Upload]
 AI-powered application for contextual conversations over uploaded documents
 - **Tech:** LangChain, OpenAI API, Streamlit, FAISS
 - **Features:** PDF ingestion, semantic search, persistent memory, chat history
 
-### 📈 [Stock Market AI Agent](https://github.com/roushan00/stock-ai-agent)
+### 📈 [Stock Market AI Agent]
 Intelligent AI agent for real-time stock market analysis using LLMs
 - **Tech:** AGiXT framework, LLMs, Financial APIs
 - **Features:** Real-time analysis, autonomous decision-making, market insights
 
-### 🎬 [Movie Recommender System](https://github.com/roushan00/movie-recommender)
+### 🎬 [Movie Recommender System]
 Content-based recommendation system using movie attributes similarity
 - **Process:** Data collection → Preprocessing → Feature extraction → Similarity calculation
 
