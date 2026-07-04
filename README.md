@@ -3,7 +3,7 @@ Hi there, I'm Roushan Singh! 👋
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;LLM+%26+GenAI+Specialist;RAG+Systems+Expert;3%2B+Years+Experience" alt="Typing SVG" />
 </div>
 🚀 About Me
-Results-driven AI/ML Engineer with 3+ years of experience in building end-to-end ML models, fine-tuning, and deploying LLMs for real-world applications that drive business value across diverse industries.
+Results-driven AI/ML Engineer with 4+ years of experience in building end-to-end ML models, fine-tuning, and deploying LLMs for real-world applications that drive business value across diverse industries.
 
 🔭 Currently working on multi-modal RAG systems and AI-powered search engines
 🌱 Pursuing a Master's in Data Science from Euron
@@ -80,7 +80,7 @@ Content-based recommendation system using movie attributes similarity
 
 ## 🎓 Education
 
-- 📚 **Master's in Economics** - University of Delhi *(2024 - Present)*
+
 - 📚 **Bachelor's in English** - University of Delhi *(2018)*
 
 
