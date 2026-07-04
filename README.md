@@ -52,22 +52,22 @@ Results-driven AI/ML Engineer with 4+ years of experience in building end-to-end
 
 ## 🚀 Featured Projects
 
-### 🎥 [Automatic Video Generation System]
+### 🎥 Automatic Video Generation System
 End-to-end automated video content creation using LLMs and media generation APIs
 - **Impact:** Automated high-quality video production in minutes
 - **Tech:** Large Language Models, Media APIs, Automation Pipeline
 
-### 📄 [Conversational RAG App with PDF Upload]
+### 📄 Conversational RAG App with PDF Upload
 AI-powered application for contextual conversations over uploaded documents
 - **Tech:** LangChain, OpenAI API, Streamlit, FAISS
 - **Features:** PDF ingestion, semantic search, persistent memory, chat history
 
-### 📈 [Stock Market AI Agent]
+### 📈 Stock Market AI Agent
 Intelligent AI agent for real-time stock market analysis using LLMs
 - **Tech:** AGiXT framework, LLMs, Financial APIs
 - **Features:** Real-time analysis, autonomous decision-making, market insights
 
-### 🎬 [Movie Recommender System]
+### 🎬 Movie Recommender System
 Content-based recommendation system using movie attributes similarity
 - **Process:** Data collection → Preprocessing → Feature extraction → Similarity calculation
 
@@ -78,10 +78,7 @@ Content-based recommendation system using movie attributes similarity
 - 🎓 **LLMOps Specialization** - DeepLearning.AI (2025)
 - 🎓 **Introduction to LLM** - IIT Delhi (2025)
 
-## 🎓 Education
 
-
-- 📚 **Bachelor's in English** - University of Delhi *(2018)*
 
 
 ## 🤝 Let's Connect!
