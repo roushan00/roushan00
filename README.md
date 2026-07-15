@@ -63,11 +63,11 @@ AI/ML Engineer with **4+ years of production experience** shipping LLM pipelines
 - Built **Hadoop/Spark predictive analytics** for supply chain optimisation, reducing delays by **25%**
 - Built a **Finance AI Copilot** for real-time fraud detection using Databricks, Kafka, and MongoDB
 
-### 📊 EZ | Data Analyst *(Aug 2020 – Dec 2022)*
+### 🎓 CodeGurukul | AI Intern *(Aug 2020 – Dec 2022)*
 
-- Performed complex statistical analysis and reporting, increasing data accessibility and usability by **30%**
-- Automated repetitive reporting operations, accelerating turnaround and reducing manual effort
-- Developed and enforced data privacy protocols for enterprise client data
+- Assisted in building and evaluating **machine learning models** for classification and regression tasks using Python, scikit-learn, and PyTorch
+- Collected, cleaned, and preprocessed large datasets and built **NLP prototypes** for text classification and sentiment analysis
+- Supported deployment of ML models as **REST APIs with FastAPI** and automated data pipelines, reducing manual experiment turnaround time
 
 ## 🚀 Featured Projects
 
